@@ -20,7 +20,7 @@
 
 - 📫 Reach to me **surya0437.nc@gmail.com**
 
-- ⚡ Fun fact **Because light attracts bugs, so programmers prefer dark mode.**
+- ⚡ **Light attracts bugs, so programmers prefer dark mode.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
