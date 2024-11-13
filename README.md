@@ -1,3 +1,4 @@
+![logo](https://github.com/surya0437/surya0437/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Surya Narayan Chaudhary</h1>
 <h3 align="center">A passionate fullstack developer from nepal</h3>
 
