@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Laravel, Filament**
 
-- 📫 How to reach me **surya0437.nc@gmail.com**
+- 📫 Reach to me **surya0437.nc@gmail.com**
 
 - ⚡ Fun fact **Because light attracts bugs, so programmers prefer dark mode.**
 
